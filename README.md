@@ -8,7 +8,7 @@
 - 📄 Know about my experiences :- [Resume](https://drive.google.com/file/d/1nqdg6x-w3EirNk3ClCJ7R6M3J6E8oZFn/view?usp=sharing)
 - ⚡ Fun fact :- I love to learn new technologies.
 - 🕺🏼 My Hobbies :- Travelling, Cooking, Reading
-🥅 2024 Goals: To get Placed :)
+- 🥅 2024 Goals: To get Placed :)
 
 🕵 Take a look at my repositories and let's get in touch!
 
