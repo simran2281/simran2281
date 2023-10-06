@@ -1,7 +1,7 @@
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+[![MasterHead]([https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in](https://c8.alamy.com/comp/2PGFXYT/application-coding-elements-from-popular-web-development-programming-language-a-colorful-background-theme-2PGFXYT.jpg))
 <h1 align="center">Hi 👋, I'm Simran Kumari!</h1>
-<!-- <h3 align="center">A passionate frontend developer</h3> -->
-https://github.com/DenverCoder1/readme-typing-svg
+<h3 align="center">A passionate frontend developer</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 - 🔭 I’m currently working on **Web Development Projects**
 - 🌱 I’m currently learning **DSA along with Full stack, React and Next Js.**
