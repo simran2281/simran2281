@@ -1,4 +1,4 @@
-[![MasterHead](https://c8.alamy.com/comp/2PGFXYT/application-coding-elements-from-popular-web-development-programming-language-a-colorful-background-theme-2PGFXYT.jpg)
+[![MasterHead](https://user-images.githubusercontent.com/121122397/216614878-411f6178-defa-4330-ba48-16db1cc92830.png)
 <h1 align="center">Hi 👋, I'm Simran Kumari!</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
