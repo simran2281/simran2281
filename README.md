@@ -2,16 +2,15 @@
 <h3 align="center">A passionate frontend developer</h3>
 
 - 🔭 I’m currently working on **Web Development Projects**
-
 - 🌱 I’m currently learning **DSA along with Full stack, React and Next Js.**
-
 - 👯 I’m looking to collaborate on **Full Stack Web Development Projects**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1nqdg6x-w3EirNk3ClCJ7R6M3J6E8oZFn/view?usp=sharing)
-
 - 📫 How to reach me **simrankumari03841@gmail.com**
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1nqdg6x-w3EirNk3ClCJ7R6M3J6E8oZFn/view?usp=sharing)
+- ⚡ Fun fact :-** I love to learn new technologies.**
+- 🕺🏼 My Hobbies :- Travelling, Cooking, Reading
+🥅 2024 Goals: To get Placed :)
 
-- ⚡ Fun fact **I thing I am friendly**
+🕵 Take a look at my repositories and let's get in touch!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
